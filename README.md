@@ -126,7 +126,7 @@ El resultado se guarda como `mapa_final.html`, que puede abrirse en cualquier na
 
 ## Licencia
 
-Este código se proporciona bajo la licencia MIT. Consulte el archivo `LICENSE` (si existe en el repositorio) para más detalles.
+Este código se proporciona bajo la licencia PRIVADA. Consulte el archivo `LICENSE`.
 
 # Makefile
 
