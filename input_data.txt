@@ -1,0 +1,8 @@
+Paracuellos del Jarama, Comunidad de Madrid
+1
+40.498500 -3.518500
+100
+40.498800 -3.518200
+40.499200 -3.518800
+10
+./fichero.tif
